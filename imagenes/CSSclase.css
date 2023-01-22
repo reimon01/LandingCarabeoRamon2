@@ -1,0 +1,18 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div#header,div#footer,div#content,div#post{
+border: 1px solid grey;
+margin: 5px; margin-bottom: 15px;padding: 8px;
+background-color: white;
+}
+
+div#header,div#foter{
+    color: white;
+    background-color: #444;
+    margin-bottom: 5px;
+}
+div#content{
+    background-color: #ddd;
+}
